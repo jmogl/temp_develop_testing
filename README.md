@@ -1,16 +1,11 @@
 # This Github is for development testing with iPad for learning three.js - not intended for general release
 
-If you want to download,  Released under MIT License. Last Update: 4/25/17
+
 
 **Features:**
 TBD
 
-
-
-
-
-
-[Click here to run the Demo!](https://jmogl.github.io/VerletBallPhysicsDemo/)	
+[Click here to run the Demo!](https://jmogl.github.io/temp_develop_testing/)	
 
 
 
@@ -24,6 +19,8 @@ TBD
 
 TBD
 
+
+Additional files to be added....
 
 - verletBallSim.js: JavaScript physics simulation code
 - [Hammer.js](http://hammerjs.github.io/): Touch library
