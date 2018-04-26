@@ -15,6 +15,8 @@ First step is to get touch working with the iPad.
 - [Physics for Games, Animations, and Simulations with HTML5 by Dev Ramtel and Adrian Dobre, ISBN-13: 978-1-4302-6338-8](https://github.com/devramtal/Physics-for-JavaScript-Games-Animation-Simulations). A great reference for starting out with physics simulations in JavaScript. Made modifications to angled wall collision algorithm for multiple ball stability.
 
 - [Learning Three JS](https://github.com/josdirksen/learning-threejs/), Three.js book by Jos Dirksen
+
+
 **Dependencies:**
 
 TBD
