@@ -7,7 +7,7 @@ TBD
 
 [Click here to run the Demo!](https://jmogl.github.io/temp_develop_testing/)	
 
-
+First step is to get touch working with the iPad.
 
 **References:**
 - [Verlet Collision with Impulse Preservation](http://codeflow.org/entries/2010/nov/29/verlet-collision-with-impulse-preservation/), an excellent physics tutorial by Florian Boesch. Approach to solving instability when objects are at rest.
