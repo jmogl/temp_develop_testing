@@ -22,7 +22,10 @@ function init() {
 	var geometry = new THREE.BoxGeometry( 40, 40, 40 );
 	var geometry = new THREE.SphereGeometry( 40, 40, 40 );
 
-	for (var i = 0; i < 100; i++) {
+
+// Original was 100
+
+	for (var i = 0; i < 10; i++) {
 		var object = new THREE.Mesh( geometry, new THREE.MeshLambertMaterial( { color: Math.random() * 0xffffff } ) );
 
 		object.position.x = Math.random() * 1000 - 500;
