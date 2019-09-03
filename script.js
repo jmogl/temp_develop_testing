@@ -1,5 +1,3 @@
-/*
-
 var scene = new THREE.Scene();
 scene.background = new THREE.Color( 0xf0f0f0 );
 var camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 10000 );
@@ -64,5 +62,3 @@ function animate() {
 
 init();
 animate();
-
-*/
