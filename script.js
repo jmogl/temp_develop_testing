@@ -25,7 +25,7 @@ function init() {
 
 // Original was 100
 
-	for (var i = 0; i < 10; i++) {
+	for (var i = 0; i < 4; i++) {
 		var object = new THREE.Mesh( geometry, new THREE.MeshLambertMaterial( { color: Math.random() * 0xffffff } ) );
 
 		object.position.x = Math.random() * 1000 - 500;
